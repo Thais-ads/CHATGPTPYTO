@@ -1,0 +1,5 @@
+requests==2.25.1
+Flask==2.0.1
+package1==1.0.0
+package2==2.0.0
+
